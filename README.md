@@ -1,1 +1,1 @@
-# 02
+Academic Query Classification project
